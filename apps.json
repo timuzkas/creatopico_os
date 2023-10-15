@@ -4,6 +4,7 @@
 	"bank": "v8",
 	"lg": "v2.3",
 	"upd": "v2.4",
+	"forceupdate": "v1",
 	"iggnore":  "123"
 }
 
