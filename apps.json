@@ -7,6 +7,8 @@
 	"forceupdate": "v1",
 	"iggnore":  "123",
 	"lgame": "v2",
-	"pong": "v3.2"
+	"pong": "v3.2",
+	"drivegame":"v3",
+	"archive":"v1.1"
 }
 
